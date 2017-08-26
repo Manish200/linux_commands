@@ -1,0 +1,32 @@
+ 
+   ADVANTAGES OF UNIX OPERATING SYSTEM OVER WINDOWS
+
+-> linux is open source .
+-> virus protection .
+-> Multiuser and Multitasking .
+-> Good password secured .
+
+   KERNEL -
+
+-> Heart of Unix .
+-> It is used to provide an application interface between programs and physical device .
+-> controls execution of process .
+-> Scheduling process fairly for execution on the CPU .
+ 
+   SHELL -
+
+-> It is the interface between user and kernel .
+
+   TYPES OF SHELL -
+
+-> BASH
+-> CSH
+-> KSH
+-> TCSH
+
+   PRINCIPAL OF UNIX -
+
+-> The Ability to chain Programms together to perform coplex task .
+-> A core programme feature of Unix is that the output of one programme can be the input for another .
+-> Configuration data is stored in text format .
+-> Biggest servers on this planet running linux without single second downtime for last ten years .
